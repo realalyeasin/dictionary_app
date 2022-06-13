@@ -1,16 +1,5 @@
-# vocabulary_app
+# Dictionary Application in Flutter
 
-A new Flutter project.
+YouTube Tutorial - https://www.youtube.com/watch?v=a0QB0fYquVc
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Dictionary App](https://user-images.githubusercontent.com/64202952/173394101-ae0486a1-005d-454d-8a4e-18fb3369a826.png)
